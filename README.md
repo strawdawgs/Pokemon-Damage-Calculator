@@ -8,7 +8,7 @@ I obtained information on the damage equation, move stats, item stats, abilities
 2. Dragonflycave
 3. Serebii
 
-I decided that I wanted to limit the use of Strings in my code, therefore limited user error. To accomplish this, I used the ENUM class
+I decided that I wanted to limit the use of Strings in my code, therefore limiting user error. To accomplish this, I used the ENUM class
 to set the basis for certain inputs such as moves, items, natures, etc. 
 
 I also used Hashmaps as a way to check for super effective, not effective and resistant typings.
