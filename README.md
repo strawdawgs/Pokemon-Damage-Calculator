@@ -7,6 +7,7 @@ I obtained information on the damage equation, move stats, item stats, abilities
 1. Bulbapedia
 2. Dragonflycave
 3. Serebii
+4. Pokemon Showdown
 
 I decided that I wanted to limit the use of Strings in my code, therefore limiting user error. To accomplish this, I used the ENUM class
 to set the basis for certain inputs such as moves, items, natures, etc. 
